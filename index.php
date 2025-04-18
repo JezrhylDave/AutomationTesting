@@ -17,5 +17,13 @@
         <input type="email" name="email" required placeholder="Email">
         <button type="submit">Add User</button>
     </form>
+    
+    <br>
+    
+    <form action ="http://localhost/robot-demo/users.php">
+        <button type="submit"> See All Users </button>
+    </form>
+
+    
 </body>
 </html>
