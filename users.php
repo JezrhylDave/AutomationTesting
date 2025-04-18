@@ -17,7 +17,7 @@ $result = $conn->query("SELECT * FROM users");
         table { border-collapse: collapse; width: 60%; margin: 20px auto; }
         th, td { border: 1px solid #333; padding: 8px; text-align: center; }
         th { background-color: #eee; }
-        .button { padding: 5px 10px; text-decoration: none; color: white; background-color: #4CAF50; border-radius: 4px; }
+        .button { padding: 5px 10px; text-decoration: none; color: white; background-color:rgb(74, 151, 252); border-radius: 4px; }
         .delete-button { background-color: #f44336; }
     </style>
 </head>
